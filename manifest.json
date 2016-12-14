@@ -1,0 +1,14 @@
+{
+  "name": "MD-Automation-Extension",
+  "version": "0.1",
+  "description": "For automating backend checks in Mobile Direct pages",
+  "manifest_version": 2,
+  "devtools_page": "devtools.html",  
+  "background": {
+      "scripts": [
+        "background.js"
+      ]      
+  },
+  "permissions": ["tabs","webNavigation"]     
+}
+

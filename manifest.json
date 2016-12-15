@@ -1,5 +1,5 @@
 {
-  "name": "MD-Automation-Extension",
+  "name": "md-check-extension",
   "version": "0.1",
   "description": "For automating backend checks in Mobile Direct pages",
   "manifest_version": 2,
